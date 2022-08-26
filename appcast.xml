@@ -4,9 +4,7 @@
         <title>Keyboard Scroller</title>
         <item>
             <title>Version 1.0</title>
-            <description>
-              <div><h2>Version 1.0</h2><p>Sentence with<br/>line break</p><h3>Features</h3><ul><li>One<br/></li><li>Two<br/></li><li>Three<br/></li></ul></div>
-            </description>
+            <description><div><h2>Version 1.0</h2><p>Sentence with<br/>line break</p><h3>Features</h3><ul><li>One<br/></li><li>Two<br/></li><li>Three<br/></li></ul></div></description>
             <pubDate>Fri, 26 Aug 2022 23:56:56 +0800</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
