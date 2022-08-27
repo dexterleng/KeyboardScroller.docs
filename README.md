@@ -30,6 +30,11 @@ Then I use the following bindings in Keyboard Scroller's Preferences:
 
 For slowly scrolling through a document I use Scroll, and for dashing through I use Jump.
 
+## Known issues
+
+- Scrolls super fast in VSCode
+- "Mouse scroll fixer" apps (e.g. Mos and Mac Mouse Fix) cause scrolling to jump long distances
+
 ## Why I made this
 
 I work on [Homerow](https://homerow.app), which has a modal workflow for scrolling. You hit a shortcut to enter "Scroll-mode", you hit `HJKL` to scroll, `Tab` to switch the active scroll area.
