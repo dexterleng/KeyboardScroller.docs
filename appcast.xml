@@ -4,11 +4,10 @@
         <title>Keyboard Scroller</title>
         <item>
             <title>Version 1.0</title>
-            <description><![CDATA[
-                <div><h2>Version 1.0</h2><p>Sentence with<br/>line break</p><h3>Features</h3><ul><li>One<br/></li><li>Two<br/></li><li>Three<br/></li></ul></div>
-            ]]>
+            <description>
+              <![CDATA[<h2>Version 1.0</h2><p>Sentence with<br/>line break</p><h3>Features</h3><ul><li>One<br/></li><li>Two<br/></li><li>Three<br/></li></ul><h3>Things</h3><ol><li>One<br/></li><li>Two<br/></li><li>Three<br/><ol><li>Yo<br/></li></ol></li></ol>]]>
             </description>
-            <pubDate>Fri, 26 Aug 2022 23:56:56 +0800</pubDate>
+            <pubDate>Sat, 27 Aug 2022 11:37:29 +0800</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
