@@ -55,3 +55,21 @@ I work on [Homerow](https://homerow.app), which has a modal workflow for scrolli
 I wanted to experiment with an ephemeral workflow using keyboard shortcuts to scroll directly and see how it compares with the modal workflow in Homerow.
 
 However, that was not the plan from the start. I originally wanted to rewrite Homerow's Scroll-mode to explore SwiftUI, play with additional features like [Jumpers and Freestyle](https://twitter.com/dexterleng/status/1554070218783477765), and [snapshot testing the Accessibility API integration to prevent regressions](https://twitter.com/dexterleng/status/1556613890414637056). The poor code quality in Homerow may have played some part in wanting to do a rewrite. I found myself having to find workarounds to implement everything with SwiftUI that would have been fairly simple with AppKit, and overall it was just not fun. Since I plan on continuing using AppKit, there wasn't a point in making Scroll-mode a separate app, and a refactor in Homerow makes more sense. Keyboard Scroller is simply a by-product of the prior mentioned explorations.
+
+## FAQ
+
+### Do you track any data?
+
+Nope.
+
+### Why do you need Accessibility API permission?
+
+To emit scroll events using the `CGEvent` API.
+
+### Do you plan on making it open source?
+
+I might.
+
+### How can I support this project?
+
+Share it with a friend and [buy me a coffee](https://www.buymeacoffee.com/dexterleng)!
