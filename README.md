@@ -2,7 +2,7 @@
   <img width="200" alt="AppIcon" src="https://user-images.githubusercontent.com/34204380/187025943-93bec8ae-65c0-4e9f-83fd-7906900ce011.png">
   <h1>Keyboard Scroller</h1>
   <p>
-    <b>Trackpad-smooth scrolling with keyboard shortcuts</b>
+    <b>Scroll with the keyboard in macOS</b>
   </p>
   <br>
 </div>
