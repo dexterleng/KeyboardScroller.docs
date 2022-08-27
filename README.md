@@ -9,7 +9,7 @@
 
 ## Demo
 
-https://user-images.githubusercontent.com/34204380/187025861-dec3a21d-dc22-452c-8a4c-5c1705f79c83.mp4
+<video src="https://user-images.githubusercontent.com/34204380/187025861-dec3a21d-dc22-452c-8a4c-5c1705f79c83.mp4" controls autoplay loop muted playsinline style="max-height:640px;"></video>
 
 Keyboard Scroller helps you scroll through apps, documents, and messages without lifting your fingers off the keyboard. à la Vimium's scroll feature.
 
