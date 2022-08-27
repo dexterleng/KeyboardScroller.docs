@@ -11,7 +11,7 @@
 
 https://user-images.githubusercontent.com/34204380/187025861-dec3a21d-dc22-452c-8a4c-5c1705f79c83.mp4
 
-The app let's you scroll through apps, documents, and messages without lifting your fingers off the keyboard. à la Vimium's scroll feature.
+Keyboard Scroller helps you scroll through apps, documents, and messages without lifting your fingers off the keyboard. à la Vimium's scroll feature.
 
 ## Features
 
@@ -46,8 +46,8 @@ For slowly scrolling through a document I use Scroll, and for dashing through I 
 
 ## Why I made this
 
-I work on [Homerow](https://homerow.app), which has a modal workflow for scrolling. You hit a shortcut to enter "Scroll-mode", you hit `HJKL` to scroll, `Tab` to switch the active scroll area.
+I work on [Homerow](https://homerow.app), which has a modal workflow for scrolling. You hit a shortcut to enter "Scroll-mode", then hit `HJKL` to scroll, and hit `Tab` to switch the active scroll area.
 
-I wanted to experiment with an ephemeral workflow using keyboard shortcuts to scroll directly, and see how it compares with the modal workflow in Homerow.
+I wanted to experiment with an ephemeral workflow using keyboard shortcuts to scroll directly and see how it compares with the modal workflow in Homerow.
 
-However that was not the plan from the start. I originally I wanted to rewrite Homerow's Scroll-mode to explore SwiftUI, play with additional features like [Jumpers and Freestyle](https://twitter.com/dexterleng/status/1554070218783477765), and [snapshot testing the Accessibility API integration to prevent regressions](https://twitter.com/dexterleng/status/1556613890414637056). The poor code quality in Homerow may have played some part in wanting to do a rewrite. I found myself having find workarounds to implement everything with SwiftUI that would have been fairly simple with AppKit, and overally it was just not fun. Since I plan on continuing using AppKit, there wasn't a point in making Scroll-mode a separate app, and a refactor in Homerow makes more sense.
+However, that was not the plan from the start. I originally wanted to rewrite Homerow's Scroll-mode to explore SwiftUI, play with additional features like [Jumpers and Freestyle](https://twitter.com/dexterleng/status/1554070218783477765), and [snapshot testing the Accessibility API integration to prevent regressions](https://twitter.com/dexterleng/status/1556613890414637056). The poor code quality in Homerow may have played some part in wanting to do a rewrite. I found myself having to find workarounds to implement everything with SwiftUI that would have been fairly simple with AppKit, and overall it was just not fun. Since I plan on continuing using AppKit, there wasn't a point in making Scroll-mode a separate app, and a refactor in Homerow makes more sense. Keyboard Scroller is simply a by-product of the prior mentioned explorations.
