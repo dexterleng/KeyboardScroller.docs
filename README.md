@@ -1,13 +1,15 @@
 <div align="center">
-  <img src="assets/AppIcon.png" width="200" height="200">
-	<h1>Keyboard Scroller</h1>
-	<p>
-		<b>Trackpad-smooth scrolling with keyboard shortcuts</b>
-	</p>
-	<br>
-	<br>
-	<br>
+  <img width="200" alt="AppIcon" src="https://user-images.githubusercontent.com/34204380/187025943-93bec8ae-65c0-4e9f-83fd-7906900ce011.png">
+  <h1>Keyboard Scroller</h1>
+  <p>
+    <b>Trackpad-smooth scrolling with keyboard shortcuts</b>
+  </p>
+  <br>
 </div>
+
+## Demo
+
+https://user-images.githubusercontent.com/34204380/187025861-dec3a21d-dc22-452c-8a4c-5c1705f79c83.mp4
 
 The app let's you scroll through apps, documents, and messages without lifting your fingers off the keyboard. à la Vimium's scroll feature.
 
