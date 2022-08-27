@@ -3,6 +3,21 @@
     <channel>
         <title>Keyboard Scroller</title>
         <item>
+            <title>Version 1.0.1</title>
+            <description>
+              <![CDATA[<h2>Version 1.0.1</h2><ul><li>Updated app icon and menu bar icon.<br/></li></ul>]]>
+            </description>
+            <pubDate>Sat, 27 Aug 2022 15:52:56 +0800</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
+            <enclosure
+              url="https://github.com/dexterleng/KeyboardScroller.docs/releases/download/v1.0.1/Keyboard-Scroller-1.0.1.zip"
+              type="application/octet-stream"
+              sparkle:edSignature="UQqDzDpam7nS9nLTKvmyPYEACM5xiuMszI/4mlKwJFMPPTLGgkYqkwp2CfQdDQPe3777qo8HcSCr8PTRpoY7DQ==" length="2223242"
+            />
+        </item>
+        <item>
             <title>Version 1.0</title>
             <description>
               <![CDATA[<h2>Version 1.0</h2><h3>Features</h3><ul><li>Scroll with hotkeys<br/></li><li>Option to center cursor on main window when scrolling<br/></li></ul>]]>
