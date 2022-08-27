@@ -13,6 +13,13 @@ https://user-images.githubusercontent.com/34204380/187025861-dec3a21d-dc22-452c-
 
 The app let's you scroll through apps, documents, and messages without lifting your fingers off the keyboard. à la Vimium's scroll feature.
 
+## Features
+
+- 😎 Trackpad-smooth scrolling with keyboard shortcuts
+- 🦘 Two types of scrolling - Normal and Jump (scrolls by a fixed distance)
+- ⚙️ Customize scroll speed and jump distance
+- 🎯 Automatically moves your cursor to the active window when scrolling
+
 ## Download
 
 Download the latest release [here](https://github.com/dexterleng/KeyboardScroller.docs/releases/tag/v1.0.1). View all versions and changelog [here](https://github.com/dexterleng/KeyboardScroller.docs/releases).
