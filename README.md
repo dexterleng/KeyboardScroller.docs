@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="assets/AppIcon.png" width="200" height="200">
+  <img src="assets/AppIcon.png" width="200" height="200">
 	<h1>Keyboard Scroller</h1>
 	<p>
 		<b>Trackpad-smooth scrolling with keyboard shortcuts</b>
@@ -36,4 +36,4 @@ I work on [Homerow](https://homerow.app), which has a modal workflow for scrolli
 
 I wanted to experiment with an ephemeral workflow using keyboard shortcuts to scroll directly, and see how it compares with the modal workflow in Homerow.
 
-However that was not the plan from the start. I originally I wanted to rewrite Homerow's Scroll-mode to explore SwiftUI, play with additional features like [Jumpers and Freestyle](https://twitter.com/dexterleng/status/1554070218783477765), and [snapshot testing the Accessibility API integration to prevent regressions](https://twitter.com/dexterleng/status/1556613890414637056). The poor code quality in Homerow may have played some part in that. I found myself having find workarounds to implement everything with SwiftUI that would have been fairly simple with AppKit, and overally it was just not fun. Since I plan on continuing using AppKit, there wasn't a point in making Scroll-mode a separate app, and a refactor in Homerow makes more sense.
+However that was not the plan from the start. I originally I wanted to rewrite Homerow's Scroll-mode to explore SwiftUI, play with additional features like [Jumpers and Freestyle](https://twitter.com/dexterleng/status/1554070218783477765), and [snapshot testing the Accessibility API integration to prevent regressions](https://twitter.com/dexterleng/status/1556613890414637056). The poor code quality in Homerow may have played some part in wanting to do a rewrite. I found myself having find workarounds to implement everything with SwiftUI that would have been fairly simple with AppKit, and overally it was just not fun. Since I plan on continuing using AppKit, there wasn't a point in making Scroll-mode a separate app, and a refactor in Homerow makes more sense.
