@@ -5,16 +5,16 @@
         <item>
             <title>Version 1.0</title>
             <description>
-              <![CDATA[<h2>Version 1.0</h2><p>Sentence with<br/>line break</p><h3>Features</h3><ul><li>One<br/></li><li>Two<br/></li><li>Three<br/></li></ul><h3>Things</h3><ol><li>One<br/></li><li>Two<br/></li><li>Three<br/><ol><li>Yo<br/></li></ol></li></ol>]]>
+              <![CDATA[<h2>Version 1.0</h2><h3>Features</h3><ul><li>Scroll with hotkeys<br/></li><li>Option to center cursor on main window when scrolling<br/></li></ul>]]>
             </description>
-            <pubDate>Sat, 27 Aug 2022 11:37:29 +0800</pubDate>
+            <pubDate>Sat, 27 Aug 2022 13:33:28 +0800</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <enclosure
-              url="https://github.com/dexterleng/KeyboardScroller.app/releases/download/v1.0/Keyboard-Scroller-1.0.zip"
+              url="https://github.com/dexterleng/KeyboardScroller.docs/releases/download/v1.0/Keyboard-Scroller-1.0.zip"
               type="application/octet-stream"
-              sparkle:edSignature="SJSIywSpa1tgXEpWJgVokjaxV1xtSAIA8WL4VR/sZy52EaosJ8Vdr0XB9T67vbvH12/4pilxZ2TkDDU7o/kdCw==" length="1994886"
+              sparkle:edSignature="TEogKQ2cV79rKUQ6J4mbbhoIQ2pwXg9ugJtXIq/CSIvMtPZnUC9SJMxXaSbNM3ilQUePDXWdsyY7SATcTXIzCg==" length="1995377"
             />
           </item>
     </channel>
