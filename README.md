@@ -13,6 +13,10 @@
 
 Keyboard Scroller helps you scroll through apps, documents, and messages without lifting your fingers off the keyboard. à la Vimium's scroll feature.
 
+## Why not just use `PgUp` and `PgDn` to scroll?
+
+`PgDn` scrolls really quickly by a whole page per keypress, which I find disorientating. Keyboard Scroller let's you scroll continuously and smoothly. You can also use jump scrolling to mimic `PgDn` scrolling but with a customizable jump distance and speed.
+
 ## Features
 
 - 😎 Trackpad-smooth scrolling with keyboard shortcuts
