@@ -5,9 +5,9 @@
     <item>
       <title>Version 1.0.2</title>
       <description>
-        <![CDATA[<h2>Version 1.0.2</h2><ul><li>Fix cursor position not moving to center of fullscreen window.<br/></li></ul>]]>
+        <![CDATA[<h2>Version 1.0.2</h2><ul><li>Fix cursor moving to an incorrect position when a fullscreen window is frontmost.<br/></li></ul>]]>
       </description>
-      <pubDate>Sun, 28 Aug 2022 13:55:58 +0800</pubDate>
+      <pubDate>Sun, 28 Aug 2022 14:05:00 +0800</pubDate>
       <sparkle:version>3</sparkle:version>
       <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
