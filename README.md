@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="200" alt="AppIcon" src="https://user-images.githubusercontent.com/34204380/187025943-93bec8ae-65c0-4e9f-83fd-7906900ce011.png">
+  <img width="200" alt="AppIcon" src="https://user-images.githubusercontent.com/34204380/187113812-3a5f42c9-b008-4851-ab94-140a8a728942.png">
   <h1>Keyboard Scroller</h1>
   <p>
     <b>Scroll with the keyboard in macOS</b>
