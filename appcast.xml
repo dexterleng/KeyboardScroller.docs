@@ -3,6 +3,21 @@
   <channel>
     <title>Keyboard Scroller</title>
     <item>
+      <title>Version 1.1.0</title>
+      <description>
+        <![CDATA[<h2>Version 1.1.0</h2><ul><li>Added option to remap <code>PgUp</code> and <code>PgDn</code> to scroll or jump<br/></li><li>Preferences will no longer automatically open if the app was launched by Login Items<br/></li></ul>]]>
+      </description>
+      <pubDate>Wed, 31 Aug 2022 23:43:59 +0800</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/dexterleng/KeyboardScroller.docs/releases/download/v1.1.0/Keyboard-Scroller-1.1.0.zip"
+        type="application/octet-stream"
+        sparkle:edSignature="Pg0SLvLBptmGBJGQy3tvH0qXJ5+o8DZkVn+aBxKVXwne1jUIrIdUjvR7FKGcQDA+K9WlF/q1WCW8JYvsnh5CBw==" length="2220994"
+      />
+    </item>
+    <item>
       <title>Version 1.0.2</title>
       <description>
         <![CDATA[<h2>Version 1.0.2</h2><ul><li>Fix cursor moving to an incorrect position when a fullscreen window is frontmost.<br/></li></ul>]]>
