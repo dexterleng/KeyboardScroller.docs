@@ -15,11 +15,12 @@ Keyboard Scroller helps you scroll through apps, websites, and documents without
 
 ## Why not just use `PgUp` and `PgDn` to scroll?
 
-`PgDn` scrolls really quickly by a whole page per keypress, which I find disorientating. Keyboard Scroller let's you scroll continuously and smoothly. You can also use jump scrolling to mimic `PgDn` scrolling but with a customizable jump distance and speed.
+`PgDn` scrolls really quickly by a whole page per keypress, which I find disorientating. Keyboard Scroller allows `PgUp` and `PgDn` (or custom shortcuts) to scroll continuously and smoothly.
 
 ## Features
 
-- 😎 Trackpad-smooth scrolling with keyboard shortcuts
+- 😎 Trackpad-smooth scrolling with `PgUp` and `PgDn`
+- ⌨️ Bind custom shortcuts to scroll
 - 🦘 Two types of scrolling - Normal and Jump (scrolls by a fixed distance)
 - ⚙️ Customize scroll speed and jump distance
 - 🎯 Automatically moves your cursor to the active window when scrolling
@@ -32,7 +33,11 @@ Requires macOS 12.3 or later.
 
 ## How to use it
 
-I use [Hyperkey](https://hyperkey.app) to remap `Caps Lock` to `⌃⌥⇧⌘`.
+Simply set the `Remap PgUp & PgDn` option to either `Scroll` or `Jump`!
+
+Alternatively, you can set custom keyboard shortcuts for easier access to scrolling.
+
+Personally, to avoid lifting my fingers off the home row, I use [Hyperkey](https://hyperkey.app) to remap `Caps Lock` to `⌃⌥⇧⌘`.
 
 Then I use the following bindings in Keyboard Scroller's Preferences:
 
